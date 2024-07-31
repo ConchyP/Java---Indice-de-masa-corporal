@@ -16,3 +16,4 @@ https://docs.google.com/document/d/1JIpaHoCX084XmrNnL8CqLr_B_TKVC04Z5tsXGjcZt4c/
 
 ## Diagrama de clases 
 
+![Diagram class calculator Imc](https://github.com/user-attachments/assets/1e45a385-a4ec-46ff-a1fd-966f019d7b9d)
