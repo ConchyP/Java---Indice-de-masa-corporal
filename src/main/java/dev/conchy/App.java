@@ -1,5 +1,8 @@
 package dev.conchy;
 
+import dev.conchy.models.CalculatorImc;
+import dev.conchy.models.Person;
+
 /**
  * Hello world!
  */
@@ -7,11 +10,12 @@ public final class App {
     private App() {
     }
 
-    /**
-     * Says hello to the world.
-     * @param args The arguments of the program.
-     */
+
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Person person = new Person(51, 1.57);
+        CalculatorImc calculatorImc = new CalculatorImc(person);
+        System.out.println("La persona pesa " + person.getWeight() + " kilogramos y mide " + person.getHeight() + " metros");
+        System.out.println("IMC: " + calculatorImc.getImc());
+        System.out.println(calculatorImc.getImcCategory());
     }
 }
