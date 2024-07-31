@@ -37,5 +37,4 @@ public class CalculatorImc {
             return "Esta persona tiene obesidad mórbida.";
         }
     }
-
 }

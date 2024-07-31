@@ -12,3 +12,7 @@ https://docs.google.com/document/d/1JIpaHoCX084XmrNnL8CqLr_B_TKVC04Z5tsXGjcZt4c/
 
 - No es necesario generar una salida por terminal
 - Obligatorio realizar los pruebas unitarias
+
+
+## Diagrama de clases 
+
