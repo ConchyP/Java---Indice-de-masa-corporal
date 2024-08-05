@@ -6,8 +6,6 @@ IMC = peso / estatura2
 
 Luego, a partir del IMC obtenido se pueden calcular si una persona tiene un peso normal, inferior o superior al normal u obesidad. Para generar estos resultados el IMC calculado debe estar en los rangos de la tabla (Ver documento adjunto)
 
-https://docs.google.com/document/d/1JIpaHoCX084XmrNnL8CqLr_B_TKVC04Z5tsXGjcZt4c/edit#heading=h.b83oo526xprm
-
 ## Requisitos 
 
 - No es necesario generar una salida por terminal
